@@ -4,17 +4,14 @@
 - 🔭 I’m currently working on some simple projects that uses CRUD function to learn how to connect front-end to back-end.
 - 🌱 I’m currently learning Front-end, either Vue or React. After learning, planning to shift on Java SpringBoot.
 - 👯 I’m looking to collaborate on anyone with the same interest!
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
 - 📫 How to reach me: Email: celda.karl.cyrus110@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm just starting!
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <p align="center">TechStack and Tools</p>
+    <p align="center" stlye="font-weight: bold">TechStack and Tools</p>
     <img src="https://skillicons.dev/icons?i=html,css,flask,java,nodejs,ps,php,py,mysql,postgres,git,github" /><br>
   </a>
 </p>
