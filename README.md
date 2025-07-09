@@ -14,7 +14,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,flask,github,java,mysql,nodejs,ps,php,postgres,py" />
+    <p>TechStack: </p>
+    <img src="https://skillicons.dev/icons?i=html,css,flask,java,nodejs,ps,php,py" /><br>
+    <p>Database: </p>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+    <p>Tools: </p>
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
