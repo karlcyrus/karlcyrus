@@ -1,29 +1,46 @@
-# Hi there, I'm Karl Cyrus! 
+# Hi there, I'm Karl Cyrus! 👋
 
-**Graduating Student & Full-Stack Web Developer**
+**Graduating Student & Full-Stack Web Developer based in the Philippines**
 
 I'm an upcoming graduate passionate about building modern, interactive, and high-performance web applications. I love turning complex ideas into elegant, user-friendly solutions. I am currently seeking full-time opportunities where I can contribute my skills, solve hard problems, and continue growing as a software engineer!
 
-###  What I'm currently working on
-- Building dynamic, responsive, and SEO-optimized applications using **React** and **Next.js**.
-- Integrating complex interactive features, such as real-time interactive mapping with **MapLibre**.
-- Designing sleek, premium user interfaces with modern styling frameworks like **Tailwind CSS**.
+🌐 **Check out my full portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.com)
+
+---
+
+###  Featured Projects
+*Here are a few things I've built recently:*
+- **[MediTrack](https://github.com/karlcyrus/meditrack)** - A comprehensive clinic management system offering secure patient records and automated audit logs.
+- **[QR-Based Attendance System](https://github.com/karlcyrus/qr-attendance)** - A scheduling and tracking platform designed to streamline teacher attendance.
+*(Note: Be sure to update the links above to point to your actual GitHub repos!)*
+
+---
 
 ###  My Tech Stack & Tools
-Over the course of my academic career and personal projects, I have built a strong foundation across the full stack:
+Over the course of my academic career and personal projects, I have built a strong foundation across the full stack, including cloud deployment and geospatial technologies.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <h2 align="center"><b>Tech Stack</b></h2>
-    <img align="center" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,java,py,php,mysql,postgres,git,github" /><br><br>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,flask,ps,vercel" />
+    <img align="center" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,java,cs,spring,py,php&perline=12" /><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase,aws,docker,git,github,unity,ps,figma,postman&perline=12" />
   </a>
 </p>
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML/CSS
-- **Backend & DB:** Node.js, Java, Python (Flask), PHP, MySQL, PostgreSQL
-- **Tools & Deployment:** Git, GitHub, Vercel, Photoshop
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, Java, C#, Spring Boot, Python, PHP
+- **Databases:** PostgreSQL, MySQL, Supabase, Firebase
+- **Cloud & DevOps:** AWS, Docker, Vercel, Railway, Render
+- **Geospatial & AR:** QGIS, OpenStreetMap, GeoJSON, Unity, Lightship VPS
+- **Tools:** Git, GitHub, Postman, Figma, Photoshop
+
+---
 
 ###  Let's Connect!
-- **Email:** celda.karl.cyrus110@gmail.com
+- **Portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.com)
 - **LinkedIn:** [linkedin.com/in/celdakarlcyrus](https://www.linkedin.com/in/celdakarlcyrus/)
+- **Email:** celda.karl.cyrus110@gmail.com
+
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karlcyrus&show_icons=true&theme=radical" alt="Karl's GitHub Stats" />
+</p>
