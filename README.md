@@ -4,15 +4,15 @@
 
 I'm an upcoming graduate passionate about building modern, interactive, and high-performance web applications. I love turning complex ideas into elegant, user-friendly solutions. I am currently seeking full-time opportunities where I can contribute my skills, solve hard problems, and continue growing as a software engineer!
 
-🌐 **Check out my full portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.com)
+🌐 **Check out my full portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.vercel.app/)
 
 ---
 
 ###  Featured Projects
 *Here are a few things I've built recently:*
-- **[MediTrack](https://github.com/karlcyrus/meditrack)** - A comprehensive clinic management system offering secure patient records and automated audit logs.
-- **[QR-Based Attendance System](https://github.com/karlcyrus/qr-attendance)** - A scheduling and tracking platform designed to streamline teacher attendance.
-*(Note: Be sure to update the links above to point to your actual GitHub repos!)*
+- **[NAvSU](https://navsu.vercel.app/)** - An advanced, markerless AR navigation system utilizing Lightship WPS. Moving beyond common constraints like scanning fixed markers or relying on rigid 3D meshes, NAvSU calculates and anchors dynamic navigational paths seamlessly across the entire campus environment.
+- **[QR-Based Attendance System](https://github.com/karlcyrus/qr-project-intern)** - A scheduling and tracking platform designed to streamline teacher attendance.
+
 
 ---
 
