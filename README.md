@@ -41,6 +41,6 @@ Over the course of my academic career and personal projects, I have built a stro
 - **Email:** celda.karl.cyrus110@gmail.com
 
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlcyrus&show_icons=true&theme=radical" alt="Karl's GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karlcyrus&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
