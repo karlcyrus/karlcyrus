@@ -42,5 +42,11 @@ Over the course of my academic career and personal projects, I have built a stro
 
 <br>
 <div align="center">
+  <!-- GitHub Stats Card (Shows Total Stars) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karlcyrus&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  
+  <br />
+
+  <!-- Your automated Streak Stats -->
   <img src="profile/streak.svg" alt="GitHub Streak" />
 </div>
