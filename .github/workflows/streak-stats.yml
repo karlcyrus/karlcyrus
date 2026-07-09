@@ -14,8 +14,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: DenverCoder1/github-readme-streak-stats@main
+      # 1. Downloads your repository so the runner can save files to it
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. Generates the streak stats SVG
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: profile/streak.svg
           options: "?user=karlcyrus&theme=dark&hide_border=true"
+
+      # 3. Commits and pushes the new SVG permanently into your main branch
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Streak Stats SVG"
