@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          user: karlcyrus
-          theme: dark
-          hide_border: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: profile/streak.svg
+          options: "?user=karlcyrus&theme=dark&hide_border=true"
