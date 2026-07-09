@@ -42,5 +42,5 @@ Over the course of my academic career and personal projects, I have built a stro
 
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=karlcyrus&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="profile/streak.svg" alt="GitHub Streak" />
 </div>
