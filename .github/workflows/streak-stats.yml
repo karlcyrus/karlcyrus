@@ -1,0 +1,22 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # Updates automatically every day at 3:00 AM UTC
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch: # Allows you to run it manually to test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-streak-stats-action@v2
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          user: karlcyrus
+          theme: dark
+          hide_border: true
