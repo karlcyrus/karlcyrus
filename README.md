@@ -11,7 +11,7 @@ I'm an upcoming graduate passionate about building modern, interactive, and high
 ###  Featured Projects
 *Here are a few things I've built recently:*
 - **[NAvSU](https://navsu.vercel.app/)** - An advanced, markerless AR navigation system utilizing Lightship WPS. Moving beyond common constraints like scanning fixed markers or relying on rigid 3D meshes, NAvSU calculates and anchors dynamic navigational paths seamlessly across the entire campus environment.
-- **[QR-Based Attendance System](https://github.com/karlcyrus/qr-project-intern)** - A scheduling and tracking platform designed to streamline teacher attendance.
+- **[PaperBrain](https://github.com/karlcyrus/paperbrain-rag-llm-pipeline)** - An End-to-end RAG pipeline built with Next.js, Supabase pgvector, and Gemini AI for intelligent document Q&A and source citations.
 
 
 ---
@@ -36,7 +36,7 @@ Over the course of my academic career and personal projects, I have built a stro
 ---
 
 ###  Let's Connect!
-- **Portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.com)
+- **Portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/celdakarlcyrus](https://www.linkedin.com/in/celdakarlcyrus/)
 - **Email:** celda.karl.cyrus110@gmail.com
 
