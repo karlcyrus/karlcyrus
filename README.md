@@ -1,8 +1,8 @@
 # Hi there, I'm Karl Cyrus! 
 
-**Compute Science Graduate & Full-Stack Developer based in the Philippines**
+**Computer Science Graduate & Full-Stack Developer based in the Philippines**
 
-I'm an upcoming graduate passionate about building modern, interactive, and high-performance web applications. I love turning complex ideas into elegant, user-friendly solutions. I am currently seeking full-time opportunities where I can contribute my skills, solve hard problems, and continue growing as a software engineer!
+I'm passionate about building modern, interactive, and high-performance web applications. I love turning complex ideas into elegant, user-friendly solutions. I am currently seeking full-time opportunities where I can contribute my skills, solve hard problems, and continue growing as a software engineer!
 
  **Check out my full portfolio:** [karlcyrusgeron.com](https://karlcyrusgeron.vercel.app/)
 
